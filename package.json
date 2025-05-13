@@ -1,0 +1,25 @@
+{
+  "name": "leorjara-ramdon-str-msg",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leorjara/ramdon-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Leonardo <leojarapsique@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/leorjara/ramdon-str-msg/issues"
+  },
+  "homepage": "https://github.com/leorjara/ramdon-str-msg#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
